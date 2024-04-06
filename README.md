@@ -52,7 +52,7 @@ pip install ruff
 配置 JupyterLab 和 Quarto （用于渲染文档，可选）
 
 > 推荐此部分使用 vscode 作为编辑器，vscode 提供了更好的文档相关支持
-> 
+>
 > - Jupyter 插件包，提供 Jupyter in vscode LSP 本体
 > - python 插件包，推荐使用 vscode 官方的配置，提供 python 语言支持
 > - Quarto 插件，提供 Jupyter in vscode 扩展
@@ -97,3 +97,9 @@ in jupyterlab, you can run `pip install jupyter-matlab-proxy` to add matlab kern
 - jupyterlab
 - quarto
 - typst
+
+# license
+
+MIT
+
+!!自己的作业自己做!!
