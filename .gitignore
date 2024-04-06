@@ -1,0 +1,15 @@
+# python
+.venv
+venv
+.temp
+__pycache__
+.ipynb_checkpoints
+
+# ide
+.idea
+.vscode
+.history
+*.pdf
+
+# temp
+docs

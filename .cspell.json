@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "figsize",
+    "fontsize",
+    "fsolve",
+    "hspace",
+    "linalg",
+    "linewidth",
+    "numpy",
+    "Seidel",
+    "toarray",
+    "wspace",
+    "xlabel",
+    "ylabel"
+  ],
+  "ignorePaths": [
+    ".*",
+    "ruff.toml"
+  ]
+}
