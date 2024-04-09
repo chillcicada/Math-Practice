@@ -12,12 +12,14 @@
 
 ## setup
 
+> git clone / degit / download zip
+>
 > 请确保您已正确配置 python 环境
 
 配置虚拟环境（use powershell as default）：
 
 ```ps1
-cd /path/to/this/folder
+cd "/path/to/this/folder"
 python -m venv .venv
 .venv/scripts/activate.ps1
 # or use bash
@@ -45,6 +47,14 @@ pip install pandas
 # 用于 lint / format
 # 由于我是全局启用 ruff，你也可以在全局环境中安装
 pip install ruff
+```
+
+> [!IMPORTANT]
+> 如果您需要为本项目做贡献，`ruff` 和 `pre-commit` 是必须的，可以运行下面的命令来安装环境：
+
+```ps1
+pip install -r requirements.txt
+# 这将安装 jupyter scipy matplotlib pre-commit 和 ruff
 ```
 
 ---

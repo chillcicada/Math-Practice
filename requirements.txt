@@ -1,0 +1,6 @@
+# only use this file when you want to contribute to the repo
+jupyter
+matplotlib
+scipy
+pre-commit
+ruff
