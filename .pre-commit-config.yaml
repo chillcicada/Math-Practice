@@ -1,0 +1,13 @@
+repos:
+# Reference to: https://docs.astral.sh/ruff/integrations/#pre-commit
+- repo: git@github.com:astral-sh/ruff-pre-commit.git
+  # Ruff version.
+  rev: v0.4.1
+  hooks:
+    # Run the linter.
+    - id: ruff
+      types_or: [ python, pyi, jupyter ]
+      args: [ --fix ]
+    # Run the formatter.
+    - id: ruff-format
+      types_or: [ python, pyi, jupyter ]
