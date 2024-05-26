@@ -1,3 +1,9 @@
+Full migration to [chillcicada/MySchoolwork](https://github.com/chillcicada/MySchoolwork)
+
+以全部迁移至 [chillcicada/MySchoolwork](https://github.com/chillcicada/MySchoolwork)
+
+---
+
 # Math Practice
 
 > 大学数学实验的相关内容
